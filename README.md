@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Je suis passionner par le développement ainsi que des langages de programmation comme Java, Python, HTML, CSS, JS</p>
+<p align="left">J'ai une passion pour les langages de développement et de programmation comme Java, Python, HTML, CSS, JS.</p>
 
 ###
 
