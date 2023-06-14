@@ -1,5 +1,5 @@
 <h1 align="center">Bonjours 👋, Je suis Loic Li</h1>
-<h3 align="center">Étudiant en première année</h3>
+<h3 align="center">Étudiant en première année de BUT Informatique à l'IUT de Villetaneuse, Université Sorbonne Paris Nord.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
