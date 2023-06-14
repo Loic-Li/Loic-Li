@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Étudiant en première année de BUT Informatique à l'IUT de Villetaneuse, Université Sorbonne Paris Nord.</p>
+<p align="left">Étudiant en BUT Informatique à l'IUT de Villetaneuse, Université Sorbonne Paris Nord.</p>
 
 ###
 
