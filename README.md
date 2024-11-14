@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg](https://commons.wikimedia.org/wiki/File:PHP-logo.svg)" height="40" alt="php logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40" alt="php logo"  />
   <img width="12" />
 </div>
 
